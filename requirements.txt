@@ -1,0 +1,4 @@
+google-cloud-storage==2.8.0
+google-auth==2.16.0
+google-api-python-client==2.92.0
+google-cloud-container==2.18.0
